@@ -1,6 +1,6 @@
 > [!NOTE]
-> This scraper was totally made for personal use and been made public for educational purpose only. I'm totally not responsible if anything unexpected happens to your Discord Account.<br>
-> **USE AT YOUR OWN RISK.**
+> This scraper was originally developed for **personal use** and is shared publicly **for educational purposes only**. I am **not responsible** for any consequences or unexpected behavior affecting your Discord account.  
+> **Use at your own risk.**
 
 > [!TIP]
-> If you don't have any idea how to use this script or what it does, dont use it. 🤡
+> If you're unsure how this script works or what it does, it's best **not to use it**. 🤡
